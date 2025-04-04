@@ -2,6 +2,7 @@ name: pipeline
 
 on:
   pull_request:
+   # Trecho Adicionado para acionar o PullRequest
   
 jobs:
   unit-test:
